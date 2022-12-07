@@ -1,0 +1,2 @@
+# sozvezdie
+move figure
